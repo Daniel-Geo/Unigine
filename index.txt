@@ -72,8 +72,8 @@ Group 02 | Match 03rd
 04:20
 15th Dec 2024
 
-alt = Resting Bitch Faces
-Resting Bitch Faces
+alt = Resting Death Faces
+Resting Death Faces
 Group 02 | Match 03rd
 
 
@@ -133,7 +133,7 @@ Contact Us
 Contact Us
 
 Location:
-153 Williamson Plaza, Maggieberg, MT 09514
+Milky Way, Solar system, Earth, Africa, Egypt
 
 Join Us:
 Info@unigine.com
@@ -145,7 +145,7 @@ Newsletter Signup
 
 Your Email
 Subscribe Now
-&copy; 2022 codewithsadee All Rights Reserved.
+&copy; 2022 Daniel-Geo All Rights Reserved.
 
 
 
